@@ -1,0 +1,1 @@
+"case when cast(pg_sleep(15) as varchar) > '' then 0 else 1 end -- 

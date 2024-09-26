@@ -1,0 +1,1 @@
+case randomblob(1000000000) when not null then 1 else 1 end 
