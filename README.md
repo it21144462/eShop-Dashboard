@@ -16,6 +16,4 @@ IT21281532
 # Github link to the original project.
 
 https://github.com/surajsingh20963/localareaelectricshop
-
-# Github link to the modified project. 
-# Link to a Youtube video. 
+ 
